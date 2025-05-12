@@ -79,7 +79,20 @@ Creación de un cuadro de mando que permita **monitorizar, analizar y optimizar 
 ![Cuadro de mando evolutivo ventas](https://github.com/sandrapampin/Business-Analytics-con-SQL-y-Power-BI/blob/main/05%20Power%20BI%20cuadro%20de%20mando/cuadro-de-mando-SyF%20evolution%20mes%20e%20int%20tpo.png)
 ![Cuadro de mando SyF recomendacion productos](https://github.com/sandrapampin/Business-Analytics-con-SQL-y-Power-BI/blob/main/05%20Power%20BI%20cuadro%20de%20mando/cuadro-de-mando-SyF%20recomendacion%20productos.png)
 
+## Nueva mejora implementada: análisis de clientes
+- **Comportamiento de cliente:** RFM y LTV para segmentar y crear estrategias de fidelización.
+ 
+• Análisis RFM: Identificar y clasificar a sus clientes más valiosos en función de tres factores clave: la recencia de sus últimas compras, la frecuencia con la que compran y el valor monetario de sus transacciones.
+
+• Supervivencia o retención de clientes.
+
+• Calculamos el Life Time Value para cada cliente y duración del cliente (tiempo de vida) usando Kaplan-Meier.
+
+![Inicio analisis cliente](https://github.com/sandrapampin/Business-Analytics-con-SQL-y-Power-BI/blob/main/_media/Comportamiento_cliente1.png)
+![RFM](https://github.com/sandrapampin/Business-Analytics-con-SQL-y-Power-BI/blob/main/_media/Comportamiento%20de%20cliente_RFM.png)
+![LTV y duracion](https://github.com/sandrapampin/Business-Analytics-con-SQL-y-Power-BI/blob/main/_media/Comportamiento%20de%20cliente_retencion.png)
+
+
 ## Próximas funcionalidades y mejoras
 Se recomienda implementar próximamente estas funcionalidades:  
-- **Comportamiento de cliente:** RFM y LTV para segmentar y crear estrategias de fidelización.  
 - **Impulsar la venta cruzada entre departamentos:** aprovechando eventos estacionales o propios del sector.
